@@ -2,7 +2,7 @@
 
 🎨  A simple drag drop app.
 
-![](gif/weathergif.gif)
+![](gif/draggif.gif)
 
 ## 🕹 Test here
 
